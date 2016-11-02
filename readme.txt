@@ -8,3 +8,4 @@ I am learning from Liao Xuefeng's Git Tutorial.
 4th class: if add then "git reset HEAD file" to unstage, then "git checkout --file"
 
 In git, the changes are uploaded to index(stage) by "add" then merge to master branch by "commit"
+Update from RP3
