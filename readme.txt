@@ -9,3 +9,4 @@ I am learning from Liao Xuefeng's Git Tutorial.
 
 In git, the changes are uploaded to index(stage) by "add" then merge to master branch by "commit"
 Update from RP3
+Update from RP3 without branch.
